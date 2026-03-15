@@ -8,6 +8,7 @@ PS-03: Autonomous Developer Onboarding Agent
 Syrus 2026 Hackathon
 
 
+
 ## Project Overview
 The Autonomous Developer Onboarding Agent is an AI-powered assistant designed to automate the onboarding process for new developers. The system uses Retrieval-Augmented Generation (RAG) and Agentic AI to guide developers through company documentation, setup processes, and internal workflows.
 
@@ -40,5 +41,11 @@ The system processes company documentation into embeddings, stores them in a vec
 5. Developers interact with the onboarding assistant via chat interface  
 6. The system tracks onboarding progress and notifies HR upon completion
 
+## 🎥 Demo
+
+A demonstration of the **Autonomous Developer Onboarding Agent** showing how the AI assistant guides developers through onboarding steps using **Retrieval-Augmented Generation (RAG)** and **Agentic AI**.
+
+▶️ **Watch the Demo Video:**  
+https://drive.google.com/file/d/1ZEgEHUgK_BLN2cib3pTeKbkoGU1g0lmS/view?usp=drivesdk
 ## Repository
 This repository contains the implementation of the Autonomous Developer Onboarding Agent developed for Syrus 2026 Hackathon (PS-03).
